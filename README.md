@@ -1,2 +1,2 @@
 # AWS_PHP_Sample
-sample
+copy of updated AWS sample files from eriks desktop
