@@ -23,7 +23,7 @@ else
 </head>
 <body>
     <section class="congratulations">
-        <h1>Updated Section</h1>
+        <h1>Smashingly superior update Section</h1>
         <p>Yadda yadda yadda.  PHP Version  <?= phpversion() ?></p>
     </section>
 
