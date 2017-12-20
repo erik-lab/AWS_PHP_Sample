@@ -24,7 +24,7 @@ else
 <body>
     <section class="congratulations">
         <h1>Smashingly superior update Section</h1>
-        <p>Modified in Cloud9.  PHP Version  <?= phpversion() ?></p>
+        <p>Modified in Cloud9 and then in github.  PHP Version  <?= phpversion() ?></p>
     </section>
 
     <section class="instructions">
